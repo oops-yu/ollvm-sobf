@@ -1,3 +1,6 @@
+### feature
+strings obfucation by alloca const c strings on stack. 
+### build:
 #### 1.
 clone this repo 
 #### 2.
